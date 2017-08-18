@@ -1,6 +1,6 @@
 # Making The Web Look Good With CSS
 
-We've learned a bit about HTML. While HTML does a great job of puting words and picture on the page, CSS exists to make your content _look good_. 
+We've learned a bit about HTML. While HTML does a great job of putting words and picture on the page, CSS exists to make your content _look good_. 
 
 ![Make This Look Good](https://web-dev-readme-photos.s3.amazonaws.com/js/make-this-look-good.gif)
 
