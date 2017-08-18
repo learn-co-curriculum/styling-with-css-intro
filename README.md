@@ -1,6 +1,6 @@
 # Making The Web Look Good With CSS
 
-We've learned a bit about HTML. While HTML does a great job of puting words and picture on the page, CSS exists to make your content _look good_. 
+We've learned a bit about HTML. While HTML does a great job of putting words and pictures on the page, CSS exists to make your content _look good_. 
 
 ![Make This Look Good](https://web-dev-readme-photos.s3.amazonaws.com/js/make-this-look-good.gif)
 
@@ -10,6 +10,5 @@ Let's take a look at a rather simple example of what CSS does. Go ahead and flip
 </iframe>
 
 Now that you understand the basics of CSS, continue onto the next lesson and get a deeper understanding of CSS.
-
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/styling-with-css-intro'>Styling With Css Intro</a> on Learn.co and start learning to code for free.</p>
