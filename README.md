@@ -15,7 +15,7 @@ In the CSS, `color` is what we refer to as an property. The `color` property def
 
 ```css
 h1 {
-  color: redl;
+  color: red;
 }
 ```
 
